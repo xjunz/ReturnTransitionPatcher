@@ -7,7 +7,7 @@
 
 ## How and why it works?  该补丁是如何工作的？
 
-See the [post](https://www.xjunz.top/post/2022/03/28/Android-Return-Transition-Patcher/) here (in Chinese).  请查看这篇[博文](https://www.xjunz.top/post/2022/03/28/Android-Return-Transition-Patcher/)。
+See the [post](https://www.xjunz.top/post/Android-Return-Transition-Patcher/) here (in Chinese).  请查看这篇[博文](https://www.xjunz.top/post/Android-Return-Transition-Patcher/)。
 
 ## Any example?  有没有例子？
 
